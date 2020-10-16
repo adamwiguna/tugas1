@@ -161,7 +161,7 @@ img {
 
 .icon-item {
     padding: 100px;
-    flex: 1;
+    flex: 1 0 31%;
     align-content: center;
     justify-items: center;
     text-align: center;
